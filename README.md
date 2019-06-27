@@ -4,7 +4,7 @@ Manuscript is currently in process
 
 This is the code and analysis for this article. 
 
-Journal Article is: Richard Allen White III, Jeff Norman, Emily E. Mclachlan, Joseph P. Dunham, Aaron Garoutte, Maren L. Friesen **The draft genome sequence *Bradyrhizobium* sp. USDA 3456 a historic diazotroph agriculture strain from Cowpea (*Vigna unguiculata*)** *Microbiology Resource Announcements (MRA).* 
+Journal Article is: Richard Allen White III, Jeff Norman, Emily E. Mclachlan, Joseph P. Dunham, Aaron Garoutte, Maren L. Friesen **The draft genome sequence *Bradyrhizobium* sp. USDA 3456 a historic diazotroph agriculture strain from Cowpea (*Vigna unguiculata*)**. *Microbiology Resource Announcements (MRA).* 
 
 **Analysis**
 
